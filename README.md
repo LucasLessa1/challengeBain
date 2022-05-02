@@ -1,1 +1,1 @@
-# challengeBain
+# Challenge Bain & Company

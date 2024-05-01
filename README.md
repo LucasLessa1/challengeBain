@@ -2,10 +2,10 @@
 
 # Project README: Climate Impact Mitigation Project
 
-## Case Introduction
+## Overview
 This repository contains the solution for a climate impact mitigation challenge focusing on Brazilian agriculture and livestock in the Amazon region, specifically in the state of Pará. The objective is to design a set of strategic initiatives to mitigate the climate impact while maintaining the growth of this sector. The project encompasses multiple workstreams, each addressing different aspects of the challenge.
 
-## Background
+## Case Introduction
 The Nature Conservancy’s (TNC) strategy director requested our assistance in developing a strategic plan to address the environmental impact of agribusiness in the Amazon region. The goal is to identify key areas and propose solutions to reduce carbon emissions while supporting sustainable practices. This project was undertaken as a case study exercise to demonstrate problem-solving capabilities and to contribute to the broader mission of TNC.
 
 ### Workstreams
